@@ -1,7 +1,7 @@
 # sql-challenge
  
 Instructions
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+This Challenge is divided into three parts: data analysis, data modeling  and data engineering.
 
 **Data Analysis**
 
